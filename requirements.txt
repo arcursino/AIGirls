@@ -13,3 +13,5 @@ xlrd
 twitter-scraper
 markovify
 folium
+plotly
+chart_studio
