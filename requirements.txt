@@ -15,3 +15,6 @@ markovify
 folium
 plotly
 chart_studio
+sklearn
+scikit-plot
+imblearn
